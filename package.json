@@ -1,0 +1,11 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "creating a web server, fetching JSON data, implementing routes and updating html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tharun Nookala",
+  "license": "ISC"
+}
